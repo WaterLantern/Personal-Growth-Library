@@ -11,7 +11,7 @@ https://zhuanlan.zhihu.com/p/455203728
 
 主目录结构：
 
-![](https://pic2.zhimg.com/80/v2-e0ef11ed80f9bb2bf9e28003c325f801_1440w.jpg)
+![Uploading 目录结构.png…]()
 
 标签栏：
 
